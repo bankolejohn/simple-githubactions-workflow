@@ -541,6 +541,13 @@ YAML
 
 <img width="1374" height="701" alt="Snipaste_2025-07-14_16-30-23" src="https://github.com/user-attachments/assets/7a5966b3-0167-4ad0-9e9d-76416d56e5bb" />
 
+<img width="1375" height="695" alt="Snipaste_2025-07-14_16-36-59" src="https://github.com/user-attachments/assets/cde2a0ca-669b-4798-8e03-f4b8fceb6394" />
+
+
+<img width="1384" height="716" alt="Snipaste_2025-07-14_16-36-12" src="https://github.com/user-attachments/assets/104318be-940d-4d38-848a-a15e2cba8d26" />
+
+
+
     
     **Important Considerations for Deployment:**
     
